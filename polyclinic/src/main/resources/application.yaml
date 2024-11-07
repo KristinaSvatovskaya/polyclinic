@@ -1,0 +1,6 @@
+doctor:
+  cost:
+    dentist: 1500
+    therapist: 500
+    juniorSurgeon: 700
+    seniorSurgeon: 2000
